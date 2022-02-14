@@ -46,10 +46,10 @@
 
 ## Project Idea 
 
-### Problem Statement
+### Background & Problem Statement
 
-+ Community Center NonProfit Organization (Plaza Comunitaria Durango - PCD) run by local community leaders relies on monetary donations, volunteers and borrowed space to perform its weekly operations. The people that PCD serves are usually older, low income immigrant folks who did not finish schools in their native countries. 
-+ Most of the resources PCD allocates is to teach, prepare and inform their 'students' about programs linked with the Mexican government or the city of LA (hosted by the Mexican Consulate). Services include but are not limited to: K-12 online education in Spanish, GED class, Computer literacy, English and U.S. citizenship test prep workshops. Often times, there are also cultural and community events hosted for the people there. 
++ Community Center NonProfit Organization (Plaza Comunitaria Durango - PCD) run by local community leaders in Southeast Los Angeles, relies on monetary donations, volunteers and borrowed space to perform its weekly operations. The people that PCD serves are usually older, low income immigrant folks who did not finish schools in their native countries and wish to attain a basic education. Thus, a big component of PCD focuses on providing education to whomever comes through their doors. 
++ Most of the resources PCD allocates is to teach, prepare and inform their 'students' about programs linked with the Mexican government or the city of LA (hosted by the Mexican Consulate). Services include but are not limited to: K-12 online education in Spanish, GED class, Computer literacy, English and U.S. citizenship test prep workshops. Often times, there are also cultural and community events hosted for the people there. All services, classes and events are hosted in the same space. 
 + Because PCD is understaffed and somewhat unstructured, the challenge is to keep records and organization of everyone attending and participating in all of its services. To keep potential donors and attract volunteers (usually high school and college students) and justify utility of space, it is essential to keep records and demonstrate with data that PCD is a cause and organization worth keeping and nurturing. 
 
 ### Potential Solution
